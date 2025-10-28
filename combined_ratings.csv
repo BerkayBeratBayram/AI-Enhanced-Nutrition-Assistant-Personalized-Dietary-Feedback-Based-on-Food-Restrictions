@@ -1,0 +1,324 @@
+user_id,recipe_id,rating,disease_id,recipe_name,created_at
+21,10582,5,3,Thai Tenderloins,2025-05-22 15:11:31
+21,13310,5,3,Hearty Minestrone,2025-05-22 15:11:33
+29,24365,4,3,Fresh Broccoli Salad,2025-05-22 15:11:40
+26,27109,3,3,My Favorite Guacamole,2025-05-22 15:11:42
+24,31300,5,3,Red Kidney Bean Salad,2025-05-22 15:11:44
+30,35515,5,3,Mediterranean Chickpea Salad,2025-05-22 15:11:46
+25,37857,3,3,Three Green Salad with Warm Brie,2025-05-22 15:11:48
+22,44988,5,3,Brie With Sun-Dried Tomatoes,2025-05-22 15:11:50
+24,56341,5,3,Greek-Style Scampi,2025-05-22 15:11:53
+23,60259,2,3,Guacamole Boats,2025-05-22 15:11:55
+28,66072,3,3,Super Moist Bundt Cake,2025-05-22 15:11:57
+24,73769,3,3,Savory Sausage and Sauerkraut Skillet,2025-05-22 15:11:59
+26,77203,5,3,Bacon Scallion Mashed Potatoes like Applebee's,2025-05-22 15:12:02
+29,79027,2,3,Apricot Beef With Sesame Noodles,2025-05-22 15:12:04
+23,90496,3,3,Ham Salad Pitas,2025-05-22 15:12:06
+29,96478,5,3,"Easy, Breezy Shrimp Curry",2025-05-22 15:12:08
+28,101017,4,3,Blue Cheese Salad Dressing,2025-05-22 15:12:10
+27,102799,5,3,Easy Sticky Cocktail Meatballs,2025-05-22 15:12:12
+28,104926,5,3,Shaker Brined Pork Roast,2025-05-22 15:12:14
+30,107449,5,3,Hot Spiced Orange Drink Mix,2025-05-22 15:12:16
+27,107471,5,3,Easy Fish Dinner,2025-05-22 15:12:18
+29,109389,5,3,Apricot Cilantro Sauce,2025-05-22 15:12:21
+23,115036,3,3,Buco (young Coconut) Pie,2025-05-22 15:12:23
+24,116083,2,3,Deer Valley Granola,2025-05-22 15:12:25
+23,133371,3,3,Chocolate Raisin Explosion Squares,2025-05-22 15:12:27
+21,135081,4,3,Caramelized Apple and Arugula Salad,2025-05-22 15:12:29
+29,135849,3,3,Popcorn Drops,2025-05-22 15:12:31
+27,147125,4,3,"Easy Sausage, Spinach and Egg Dinner",2025-05-22 15:12:34
+24,149293,3,3,Kielbasa and Noodles or Rice or Whatever  OAMC Crock Pot,2025-05-22 15:12:36
+23,149578,5,3,Salami Flag Appetizers,2025-05-22 15:12:38
+22,150323,4,3,Spicy Spinach Dip,2025-05-22 15:12:40
+25,153743,3,3,Butternut Squash Strata,2025-05-22 15:12:42
+21,157953,2,3,Just Like Mom's Meatloaf,2025-05-22 15:12:44
+21,159624,5,3,BBQ Grilled Apricot Ginger Chicken Breasts,2025-05-22 15:12:46
+21,171739,5,3,Jazzed up Broccoli,2025-05-22 15:12:48
+27,183631,4,3,Creamy Ranchero Bake,2025-05-22 15:12:50
+21,184735,5,3,Civilized Barbacoa (Smoked Chuck Roast),2025-05-22 15:12:52
+25,188436,4,3,Cheddar Zucchini Supreme,2025-05-22 15:12:55
+24,194607,5,3,Spice-Rubbed Smoked Turkey,2025-05-22 15:12:57
+30,200719,3,3,Crispix Snack Mix,2025-05-22 15:12:59
+24,207917,5,3,Vegetable Sesame Rice Balls,2025-05-22 15:13:01
+30,208251,3,3,Matt's Zesty Meatloaf,2025-05-22 15:13:03
+21,208322,5,3,Weight Watcher Friendly Chicken Thyme Curry,2025-05-22 15:13:05
+24,209131,5,3,Tuscan Tuna Skillet,2025-05-22 15:13:07
+27,216385,1,3,Savory Party Mix,2025-05-22 15:13:10
+24,220014,3,3,Confetti Beef Skillet,2025-05-22 15:13:12
+25,226958,5,3,Grandma W's Chili Con Carne,2025-05-22 15:13:14
+29,237453,5,3,Summer Strawberry Daiquiri,2025-05-22 15:13:16
+26,238380,3,3,Bacon-Wrapped Pork Tenderloin on the Grill or Broiler,2025-05-22 15:13:19
+30,242935,5,3,Gracie's Green Chile Stew,2025-05-22 15:13:21
+23,242977,3,3,Simon Rimmer's Meatloaf,2025-05-22 15:13:23
+29,256034,3,3,Apple Snack Mix,2025-05-22 15:13:25
+30,256500,3,3,Sausage &amp; Rice Skillet,2025-05-22 15:13:27
+30,259636,3,3,Favorite Stuffed Manicotti,2025-05-22 15:13:29
+23,267046,5,3,Chocolate Balls,2025-05-22 15:13:31
+22,268479,2,3,Blueberry Granola Parfait,2025-05-22 15:13:33
+25,269777,2,3,Lemon Shake (Non-Alcoholic Beverage),2025-05-22 15:13:35
+29,271141,5,3,The Big Daddy Caddy Margarita,2025-05-22 15:13:37
+30,272854,3,3,Easy No Fail Chocolate Fudge,2025-05-22 15:13:39
+25,274755,5,3,Carrots-A-La-Kiddies,2025-05-22 15:13:41
+26,276257,3,3,Chicken With Orange-Chipotle Glaze,2025-05-22 15:13:43
+21,285111,3,3,Crock Pot Beef Stew,2025-05-22 15:13:45
+24,295045,5,3,Indian Spicy Chicken Curry Fry,2025-05-22 15:13:47
+29,297652,5,3,Bambinos,2025-05-22 15:14:01
+23,297667,4,3,Cranberry Chicken Curry for Crockpot Slowcooker or Pot,2025-05-22 15:14:04
+23,300622,3,3,Chicken and Broccoli Casserole - Gluten Free,2025-05-22 15:14:06
+29,306613,5,3,Courgette Curry,2025-05-22 15:14:08
+22,308195,2,3,Grilled Turkey and Swiss Panini Sandwich,2025-05-22 15:14:10
+29,310146,3,3,Grandmama's Strawberry Pie,2025-05-22 15:14:12
+27,322493,5,3,Amazingly &amp; Easy Tomato and Basil Sauce,2025-05-22 15:14:14
+30,325984,3,3,Tin Roof Sundae Brownies,2025-05-22 15:14:17
+21,326705,5,3,Twice-Baked Potato Casserole,2025-05-22 15:14:19
+23,329540,4,3,Creamy Garlic Salsa Dip,2025-05-22 15:14:22
+26,332312,5,3,Cauliflower Mashed Potatoes,2025-05-22 15:14:24
+22,334220,3,3,Jodee's Zucchini Soup,2025-05-22 15:14:26
+24,335609,5,3,Electric Iced Tea,2025-05-22 15:14:29
+28,342530,5,3,Anise and  Cherry Tomatoes Salad With a Kick,2025-05-22 15:14:31
+23,354224,5,3,Vanilla Panna Cotta With Rhubarb and Raspberry,2025-05-22 15:14:33
+24,357218,3,3,Rooibos Milk,2025-05-22 15:14:35
+22,371576,3,3,Rock Star Worthy Rum Balls,2025-05-22 15:14:37
+22,374882,4,3,Hot'n' Cheesy Chicken Casserole!,2025-05-22 15:14:39
+24,377538,3,3,Figs in Honey,2025-05-22 15:14:41
+30,379674,3,3,Chocolate Banana Cake from Canadian Living,2025-05-22 15:14:43
+28,384401,3,3,Tropical Mango and Coconut Cookie Trifle,2025-05-22 15:14:45
+21,385460,5,3,1.5 Quart Crock-Pot Risotto,2025-05-22 15:14:47
+26,394927,3,3,Absolut Fuzzy Navel,2025-05-22 15:14:49
+30,395347,5,3,The Best Meatballs,2025-05-22 15:14:51
+29,401715,5,3,Rummy Yummy Rum Balls,2025-05-22 15:14:53
+30,403287,5,3,Pear-Apple Butter,2025-05-22 15:14:55
+22,403651,5,3,Tasso Cajun Style,2025-05-22 15:14:58
+26,404796,3,3,Hash Brown Casserole (Cooking Light),2025-05-22 15:15:00
+28,408290,5,3,Cheap and Easy Stroganoff,2025-05-22 15:15:02
+24,408825,5,3,Golden Pork Chops,2025-05-22 15:15:04
+23,411497,3,3,Everyone Loves It Meatloaf,2025-05-22 15:15:06
+24,413499,3,3,Layered Casserole,2025-05-22 15:15:08
+25,416841,2,3,Cod With Fermented Black Beans &amp; Scallions,2025-05-22 15:15:10
+29,418934,3,3,Zesty Sloppy Joes,2025-05-22 15:15:12
+26,421466,4,3,Healthy Banana Soft Serve Ice Cream,2025-05-22 15:15:14
+24,425181,3,3,Landgang,2025-05-22 15:15:16
+25,428775,5,3,Turkish Chicken Kebabs With Aleppo Pepper,2025-05-22 15:15:19
+23,430137,5,3,Coconut Szechuan Shrimp,2025-05-22 15:15:21
+28,432393,5,3,Sweet Potato Fries With Basil  Salt &amp; Garlic Mayonnaise,2025-05-22 15:15:23
+27,434000,3,3,Reuben Noodle Casserole,2025-05-22 15:15:25
+27,454655,5,3,Perfect Soft Guacamole,2025-05-22 15:15:27
+28,455945,5,3,Creamy Carrot and Sweet Potato Soup,2025-05-22 15:15:29
+28,456587,3,3,Crock Pot Barbecue Chicken,2025-05-22 15:15:31
+21,460739,3,3,Pumpkin and Corn Roll (Using Nut Roll Tins),2025-05-22 15:15:33
+30,469638,3,3,Rouladen,2025-05-22 15:15:36
+29,469697,3,3,Langoustine Pasta,2025-05-22 15:15:38
+26,471705,5,3,Hardy Oxtail Soup,2025-05-22 15:15:40
+26,473044,5,3,Carribean Black Bean Soup (Vegetarian),2025-05-22 15:15:42
+29,475108,5,3,Terrific Tuscan Vegetable Soup,2025-05-22 15:15:45
+30,475229,5,3,Spicy Sweet Potato Fries With Sriracha Dipping Sauce,2025-05-22 15:15:47
+24,484438,3,3,Lemon Coconut Cake from Bon Appetite,2025-05-22 15:15:49
+23,484686,5,3,Mexican Red Cabbage Salad,2025-05-22 15:15:51
+29,496575,3,3,Simply Smashing Loaded Kimchi Potatoes #5FIX,2025-05-22 15:15:53
+21,502552,3,3,Fettuccine Crema,2025-05-22 15:15:55
+23,510258,3,3,S'mores Snack Mix,2025-05-22 15:15:58
+28,516485,5,3,Strawberry Lemonade Concentrate,2025-05-22 15:16:01
+25,524433,2,3,Apple Cinnamon Steel Cut Oats,2025-05-22 15:16:03
+28,524953,5,3,Rose's Perpetties (Polpette),2025-05-22 15:16:05
+21,528956,3,3,Louise's Christmas Bonbons,2025-05-22 15:16:07
+24,530537,4,3,White Chicken Chili,2025-05-22 15:16:09
+22,541167,3,3,D.A.M. Sabrosa Bloody Mary,2025-05-22 15:16:11
+8,10582,4,1,Thai Tenderloins,2025-05-22 13:00:04
+9,13310,3,1,Hearty Minestrone,2025-05-22 13:00:07
+6,37857,3,1,Three Green Salad with Warm Brie,2025-05-22 13:00:09
+10,44988,3,1,Brie With Sun-Dried Tomatoes,2025-05-22 13:00:11
+10,56341,4,1,Greek-Style Scampi,2025-05-22 13:00:13
+6,60259,3,1,Guacamole Boats,2025-05-22 13:00:15
+4,79027,3,1,Apricot Beef With Sesame Noodles,2025-05-22 13:00:17
+10,96478,3,1,"Easy, Breezy Shrimp Curry",2025-05-22 13:00:19
+3,102799,2,1,Easy Sticky Cocktail Meatballs,2025-05-22 13:00:21
+4,109389,3,1,Apricot Cilantro Sauce,2025-05-22 13:00:23
+7,149293,3,1,Kielbasa and Noodles or Rice or Whatever  OAMC Crock Pot,2025-05-22 13:00:25
+7,157953,3,1,Just Like Mom's Meatloaf,2025-05-22 13:00:27
+9,159624,3,1,BBQ Grilled Apricot Ginger Chicken Breasts,2025-05-22 13:00:29
+1,171739,4,1,Jazzed up Broccoli,2025-05-22 13:00:31
+10,184735,3,1,Civilized Barbacoa (Smoked Chuck Roast),2025-05-22 13:00:33
+10,207917,3,1,Vegetable Sesame Rice Balls,2025-05-22 13:00:35
+2,208251,2,1,Matt's Zesty Meatloaf,2025-05-22 13:00:37
+10,208322,4,1,Weight Watcher Friendly Chicken Thyme Curry,2025-05-22 13:00:39
+1,209131,4,1,Tuscan Tuna Skillet,2025-05-22 13:00:42
+6,220014,3,1,Confetti Beef Skillet,2025-05-22 13:00:44
+9,238380,3,1,Bacon-Wrapped Pork Tenderloin on the Grill or Broiler,2025-05-22 13:00:46
+3,256034,2,1,Apple Snack Mix,2025-05-22 13:00:48
+8,256500,2,1,Sausage &amp; Rice Skillet,2025-05-22 13:00:50
+5,259636,2,1,Favorite Stuffed Manicotti,2025-05-22 13:00:53
+8,266046,3,1,Chicken &amp; Bacon With Vegetables and Orzo/Rice,2025-05-22 13:00:55
+1,268479,2,1,Blueberry Granola Parfait,2025-05-22 13:00:57
+3,269777,2,1,Lemon Shake (Non-Alcoholic Beverage),2025-05-22 13:00:59
+1,271141,1,1,The Big Daddy Caddy Margarita,2025-05-22 13:01:01
+7,271629,2,1,Baked Ziti Florentine,2025-05-22 13:01:03
+4,295045,4,1,Indian Spicy Chicken Curry Fry,2025-05-22 13:01:05
+8,297652,3,1,Bambinos,2025-05-22 13:01:07
+8,306613,5,1,Courgette Curry,2025-05-22 13:01:09
+6,308195,3,1,Grilled Turkey and Swiss Panini Sandwich,2025-05-22 13:01:11
+7,325984,1,1,Tin Roof Sundae Brownies,2025-05-22 13:01:13
+2,332312,5,1,Cauliflower Mashed Potatoes,2025-05-22 13:01:15
+2,335609,1,1,Electric Iced Tea,2025-05-22 13:01:17
+4,342530,4,1,Anise and  Cherry Tomatoes Salad With a Kick,2025-05-22 13:01:19
+10,374882,2,1,Hot'n' Cheesy Chicken Casserole!,2025-05-22 13:01:21
+4,385460,2,1,1.5 Quart Crock-Pot Risotto,2025-05-22 13:01:23
+4,394927,1,1,Absolut Fuzzy Navel,2025-05-22 13:01:25
+10,395347,3,1,The Best Meatballs,2025-05-22 13:01:28
+1,403651,4,1,Tasso Cajun Style,2025-05-22 13:01:30
+4,408290,3,1,Cheap and Easy Stroganoff,2025-05-22 13:01:32
+5,408825,4,1,Golden Pork Chops,2025-05-22 13:01:34
+3,411093,3,1,Mandarin Topped Pork Loin,2025-05-22 13:01:36
+3,416841,3,1,Cod With Fermented Black Beans &amp; Scallions,2025-05-22 13:01:38
+6,428775,4,1,Turkish Chicken Kebabs With Aleppo Pepper,2025-05-22 13:01:40
+8,430137,3,1,Coconut Szechuan Shrimp,2025-05-22 13:01:42
+1,454655,4,1,Perfect Soft Guacamole,2025-05-22 13:01:44
+5,469638,2,1,Rouladen,2025-05-22 13:01:46
+2,475108,4,1,Terrific Tuscan Vegetable Soup,2025-05-22 13:01:48
+9,484686,5,1,Mexican Red Cabbage Salad,2025-05-22 13:01:50
+4,496575,3,1,Simply Smashing Loaded Kimchi Potatoes #5FIX,2025-05-22 13:01:53
+7,510258,2,1,S'mores Snack Mix,2025-05-22 13:01:54
+9,524953,3,1,Rose's Perpetties (Polpette),2025-05-22 13:01:56
+8,541167,2,1,D.A.M. Sabrosa Bloody Mary,2025-05-22 13:01:58
+76,6649,5,8,Beer Bread,2025-05-22 13:34:29
+72,10582,5,8,Thai Tenderloins,2025-05-22 13:34:31
+73,13310,5,8,Hearty Minestrone,2025-05-22 13:34:33
+78,24365,4,8,Fresh Broccoli Salad,2025-05-22 13:34:36
+80,31300,3,8,Red Kidney Bean Salad,2025-05-22 13:34:38
+76,37857,5,8,Three Green Salad with Warm Brie,2025-05-22 13:34:39
+80,60259,5,8,Guacamole Boats,2025-05-22 13:34:42
+74,66072,5,8,Super Moist Bundt Cake,2025-05-22 13:34:43
+76,79027,5,8,Apricot Beef With Sesame Noodles,2025-05-22 13:34:46
+72,90496,5,8,Ham Salad Pitas,2025-05-22 13:34:47
+78,90921,5,8,"I Stole the Idea from Mirj"" Sesame Noodles""",2025-05-22 13:34:50
+76,102799,5,8,Easy Sticky Cocktail Meatballs,2025-05-22 13:34:51
+71,104926,5,8,Shaker Brined Pork Roast,2025-05-22 13:34:54
+79,107449,5,8,Hot Spiced Orange Drink Mix,2025-05-22 13:34:56
+77,108410,5,8,All-Purpose Shake and Bake,2025-05-22 13:34:58
+79,109389,5,8,Apricot Cilantro Sauce,2025-05-22 13:35:00
+80,115036,5,8,Buco (young Coconut) Pie,2025-05-22 13:35:02
+77,152496,5,8,Nancy's Walnut Stick Cookies,2025-05-22 13:35:04
+75,159624,5,8,BBQ Grilled Apricot Ginger Chicken Breasts,2025-05-22 13:35:06
+79,171739,5,8,Jazzed up Broccoli,2025-05-22 13:35:08
+77,177338,5,8,Breaded Asparagus,2025-05-22 13:35:10
+78,184735,5,8,Civilized Barbacoa (Smoked Chuck Roast),2025-05-22 13:35:12
+75,194607,5,8,Spice-Rubbed Smoked Turkey,2025-05-22 13:35:14
+72,196575,5,8,Chicken &amp; Dumplings,2025-05-22 13:35:16
+80,201035,5,8,Cranberry Orange Bread,2025-05-22 13:35:18
+77,207917,5,8,Vegetable Sesame Rice Balls,2025-05-22 13:35:20
+79,208251,5,8,Matt's Zesty Meatloaf,2025-05-22 13:35:22
+79,208322,5,8,Weight Watcher Friendly Chicken Thyme Curry,2025-05-22 13:35:24
+77,209131,5,8,Tuscan Tuna Skillet,2025-05-22 13:35:27
+76,210187,5,8,Pecan-Crusted Chicken Breasts With Maple-Dijon Sauce,2025-05-22 13:35:29
+79,226958,5,8,Grandma W's Chili Con Carne,2025-05-22 13:35:31
+78,237453,5,8,Summer Strawberry Daiquiri,2025-05-22 13:35:33
+75,238380,3,8,Bacon-Wrapped Pork Tenderloin on the Grill or Broiler,2025-05-22 13:35:35
+76,242935,5,8,Gracie's Green Chile Stew,2025-05-22 13:35:37
+78,256034,5,8,Apple Snack Mix,2025-05-22 13:35:39
+73,256612,5,8,Marinated Roasted Vegetables,2025-05-22 13:35:41
+78,261124,5,8,Perfect Pork Schnitzel,2025-05-22 13:35:43
+78,266046,5,8,Chicken &amp; Bacon With Vegetables and Orzo/Rice,2025-05-22 13:35:45
+80,269777,1,8,Lemon Shake (Non-Alcoholic Beverage),2025-05-22 13:35:47
+76,271141,5,8,The Big Daddy Caddy Margarita,2025-05-22 13:35:49
+72,276257,5,8,Chicken With Orange-Chipotle Glaze,2025-05-22 13:35:51
+76,285706,5,8,Chocolate- Zucchini Cupcakes,2025-05-22 13:35:53
+74,295045,5,8,Indian Spicy Chicken Curry Fry,2025-05-22 13:35:55
+79,306613,5,8,Courgette Curry,2025-05-22 13:35:57
+73,310146,5,8,Grandmama's Strawberry Pie,2025-05-22 13:35:59
+80,325984,5,8,Tin Roof Sundae Brownies,2025-05-22 13:36:01
+80,327820,5,8,Jerusalem Kugel,2025-05-22 13:36:03
+73,331744,5,8,Hemp Bread,2025-05-22 13:36:05
+73,332312,5,8,Cauliflower Mashed Potatoes,2025-05-22 13:36:08
+73,335304,5,8,The Real New York Bagel Recipe,2025-05-22 13:36:10
+79,335609,5,8,Electric Iced Tea,2025-05-22 13:36:13
+73,342530,5,8,Anise and  Cherry Tomatoes Salad With a Kick,2025-05-22 13:36:15
+79,371576,5,8,Rock Star Worthy Rum Balls,2025-05-22 13:36:17
+73,377538,5,8,Figs in Honey,2025-05-22 13:36:19
+77,385460,5,8,1.5 Quart Crock-Pot Risotto,2025-05-22 13:36:21
+80,394927,3,8,Absolut Fuzzy Navel,2025-05-22 13:36:23
+77,395347,5,8,The Best Meatballs,2025-05-22 13:36:25
+72,401715,5,8,Rummy Yummy Rum Balls,2025-05-22 13:36:27
+80,403287,5,8,Pear-Apple Butter,2025-05-22 13:36:29
+76,403651,5,8,Tasso Cajun Style,2025-05-22 13:36:31
+79,408290,5,8,Cheap and Easy Stroganoff,2025-05-22 13:36:33
+79,408825,5,8,Golden Pork Chops,2025-05-22 13:36:35
+80,411093,5,8,Mandarin Topped Pork Loin,2025-05-22 13:36:37
+80,411497,5,8,Everyone Loves It Meatloaf,2025-05-22 13:36:39
+80,413800,5,8,Double Chocolate-Coffee Vegan Cupcakes,2025-05-22 13:36:41
+72,416841,5,8,Cod With Fermented Black Beans &amp; Scallions,2025-05-22 13:36:43
+74,418934,5,8,Zesty Sloppy Joes,2025-05-22 13:36:45
+76,428775,5,8,Turkish Chicken Kebabs With Aleppo Pepper,2025-05-22 13:36:47
+76,432393,5,8,Sweet Potato Fries With Basil  Salt &amp; Garlic Mayonnaise,2025-05-22 13:36:49
+76,454655,5,8,Perfect Soft Guacamole,2025-05-22 13:36:51
+80,456587,5,8,Crock Pot Barbecue Chicken,2025-05-22 13:36:53
+71,469638,5,8,Rouladen,2025-05-22 13:36:55
+74,473044,5,8,Carribean Black Bean Soup (Vegetarian),2025-05-22 13:36:57
+79,475108,5,8,Terrific Tuscan Vegetable Soup,2025-05-22 13:37:00
+72,484686,5,8,Mexican Red Cabbage Salad,2025-05-22 13:37:03
+77,496575,3,8,Simply Smashing Loaded Kimchi Potatoes #5FIX,2025-05-22 13:37:05
+80,510258,5,8,S'mores Snack Mix,2025-05-22 13:37:06
+71,516485,5,8,Strawberry Lemonade Concentrate,2025-05-22 13:37:09
+74,528956,3,8,Louise's Christmas Bonbons,2025-05-22 13:37:11
+80,540704,5,8,Authentic NY Style Pizza Dough,2025-05-22 13:37:13
+75,541167,5,8,D.A.M. Sabrosa Bloody Mary,2025-05-22 13:37:16
+39,6649,2,4,Beer Bread,2025-05-22 13:54:27
+35,10582,4,4,Thai Tenderloins,2025-05-22 13:54:29
+32,13310,2,4,Hearty Minestrone,2025-05-22 13:54:31
+35,35515,5,4,Mediterranean Chickpea Salad,2025-05-22 13:54:33
+40,37857,3,4,Three Green Salad with Warm Brie,2025-05-22 13:54:35
+36,60259,4,4,Guacamole Boats,2025-05-22 13:54:37
+39,79027,2,4,Apricot Beef With Sesame Noodles,2025-05-22 13:54:39
+35,90921,3,4,"I Stole the Idea from Mirj"" Sesame Noodles""",2025-05-22 13:54:41
+32,104926,2,4,Shaker Brined Pork Roast,2025-05-22 13:54:43
+32,107449,2,4,Hot Spiced Orange Drink Mix,2025-05-22 13:54:45
+40,108410,3,4,All-Purpose Shake and Bake,2025-05-22 13:54:47
+31,109389,4,4,Apricot Cilantro Sauce,2025-05-22 13:54:49
+33,115036,3,4,Buco (young Coconut) Pie,2025-05-22 13:54:51
+33,159624,4,4,BBQ Grilled Apricot Ginger Chicken Breasts,2025-05-22 13:54:53
+36,171739,5,4,Jazzed up Broccoli,2025-05-22 13:54:55
+34,184735,2,4,Civilized Barbacoa (Smoked Chuck Roast),2025-05-22 13:54:57
+39,194607,4,4,Spice-Rubbed Smoked Turkey,2025-05-22 13:55:00
+40,207917,4,4,Vegetable Sesame Rice Balls,2025-05-22 13:55:02
+32,208322,4,4,Weight Watcher Friendly Chicken Thyme Curry,2025-05-22 13:55:04
+38,209131,5,4,Tuscan Tuna Skillet,2025-05-22 13:55:06
+36,210187,3,4,Pecan-Crusted Chicken Breasts With Maple-Dijon Sauce,2025-05-22 13:55:08
+34,226958,4,4,Grandma W's Chili Con Carne,2025-05-22 13:55:10
+40,237453,2,4,Summer Strawberry Daiquiri,2025-05-22 13:55:12
+37,238380,1,4,Bacon-Wrapped Pork Tenderloin on the Grill or Broiler,2025-05-22 13:55:14
+36,242935,3,4,Gracie's Green Chile Stew,2025-05-22 13:55:16
+35,256034,2,4,Apple Snack Mix,2025-05-22 13:55:18
+34,256612,4,4,Marinated Roasted Vegetables,2025-05-22 13:55:20
+35,268479,3,4,Blueberry Granola Parfait,2025-05-22 13:55:22
+31,269777,1,4,Lemon Shake (Non-Alcoholic Beverage),2025-05-22 13:55:24
+38,271141,3,4,The Big Daddy Caddy Margarita,2025-05-22 13:55:26
+40,276257,4,4,Chicken With Orange-Chipotle Glaze,2025-05-22 13:55:28
+39,295045,3,4,Indian Spicy Chicken Curry Fry,2025-05-22 13:55:30
+34,306613,5,4,Courgette Curry,2025-05-22 13:55:32
+31,310146,2,4,Grandmama's Strawberry Pie,2025-05-22 13:55:35
+34,325984,2,4,Tin Roof Sundae Brownies,2025-05-22 13:55:37
+36,331744,3,4,Hemp Bread,2025-05-22 13:55:39
+39,332312,5,4,Cauliflower Mashed Potatoes,2025-05-22 13:55:41
+31,335609,1,4,Electric Iced Tea,2025-05-22 13:55:43
+37,342530,5,4,Anise and  Cherry Tomatoes Salad With a Kick,2025-05-22 13:55:45
+34,371576,2,4,Rock Star Worthy Rum Balls,2025-05-22 13:55:47
+40,377538,2,4,Figs in Honey,2025-05-22 13:55:49
+39,385460,3,4,1.5 Quart Crock-Pot Risotto,2025-05-22 13:55:51
+33,394927,1,4,Absolut Fuzzy Navel,2025-05-22 13:55:54
+34,401715,2,4,Rummy Yummy Rum Balls,2025-05-22 13:55:55
+36,403287,4,4,Pear-Apple Butter,2025-05-22 13:55:57
+35,403651,4,4,Tasso Cajun Style,2025-05-22 13:56:00
+31,408290,2,4,Cheap and Easy Stroganoff,2025-05-22 13:56:02
+35,408825,3,4,Golden Pork Chops,2025-05-22 13:56:04
+31,411093,2,4,Mandarin Topped Pork Loin,2025-05-22 13:56:06
+34,413800,3,4,Double Chocolate-Coffee Vegan Cupcakes,2025-05-22 13:56:08
+36,416841,3,4,Cod With Fermented Black Beans &amp; Scallions,2025-05-22 13:56:10
+32,418934,2,4,Zesty Sloppy Joes,2025-05-22 13:56:12
+34,428775,3,4,Turkish Chicken Kebabs With Aleppo Pepper,2025-05-22 13:56:14
+36,454655,4,4,Perfect Soft Guacamole,2025-05-22 13:56:16
+32,456587,3,4,Crock Pot Barbecue Chicken,2025-05-22 13:56:18
+34,473044,5,4,Carribean Black Bean Soup (Vegetarian),2025-05-22 13:56:20
+37,475108,4,4,Terrific Tuscan Vegetable Soup,2025-05-22 13:56:22
+32,484686,5,4,Mexican Red Cabbage Salad,2025-05-22 13:56:24
+34,510258,2,4,S'mores Snack Mix,2025-05-22 13:56:26
+33,516485,3,4,Strawberry Lemonade Concentrate,2025-05-22 13:56:29
+37,540704,3,4,Authentic NY Style Pizza Dough,2025-05-22 13:56:31
+33,541167,3,4,D.A.M. Sabrosa Bloody Mary,2025-05-22 13:56:33
